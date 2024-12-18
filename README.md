@@ -80,28 +80,26 @@ For sorting data user can choose up to two keys from four available:
      
 <img src = "Images/Keys.png" alt = "Print Selection" style = "height: 70px;"/> 
 
-
 # Installation
 
 Here are the steps to install and run the program:
-0. If you don't have cmake installed, you will need to download it from a file in the latest
- release and run it.
-1. Download the latest release **v2.0** by going to releases, then release `v2.0` and press 
-on `Source code (zip)`.
-2. **Unzip** the file `Students-2.0.zip`.
-3. Run the `run.bat` file. (It wiil also clone googletest repository from github to project 
-directory if it isn't there already)
-4. Follow the instructions on the screen or read [instructions](#how-to-use-the-program) on 
+
+1. Download the latest release **v3.0** by going to releases, then release **v3.0** and press on **Source code (zip)**.
+2. **Unzip** the file **Students_final-3.0.zip**.
+3. Run the **Setup.msi** file.
+4. Then few times you'll need to press **next**.
+5. Then window asking **administrator permssion** will apear on the screen. Press **YES**.
+6. Finnaly you can just close Setup window.
+7. Run the **Students** application from start up menu or using desktop shortcut.
+8. Follow the instructions on the screen or read [instructions](#how-to-use-the-program) on 
 how to use the program.
 
-Before being able to use the program, you will also see Unit Test results and by pressing any 
-button, program will be executed.
-If everything is done right program should run immediately. To run the program again,
- next time you can run the `Students_App.exe` file found in the `Debug` folder or 
- create **shortcut** by right-clicking on file `Students_App.exe` and there you should find
-  an option **Create shortcut**, which can be moved to any convenient location from where then
-   you'll be able to run the program.
+To unistall the program:
+1. Start `Setup.msi` file.
+2. Select **Remove setup**.
+3. Press **finish** and click **YES** on the window that pops-up.
+4. Finnaly, just close **Setup** window.
 
 #
 
-You can find technical details [here](https://github.com/Cristup/Students_new).
+You can find technical details abou the program [here](https://github.com/Cristup/Students_new).
